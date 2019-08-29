@@ -50,6 +50,9 @@ body{
 #imagen img {
     margin: 0 auto;
     display: block;
+	weight: 450px;
+	height :450px;
+	
 }
 #datos{
   padding-left: 50px;
@@ -99,3 +102,8 @@ body{
     color: white;
     text-align: center;
   }
+.botones {
+	margin: 0% auto;
+	text-align: center;
+}
+  
